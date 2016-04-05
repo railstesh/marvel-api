@@ -1,13 +1,15 @@
 # Marvel
 
 Ruby Client for Marvel API's just add gem in your project for using the Marvel API.
+
 Marvel Ruby Client Provide apis for following resources: 
-Character
-Comic
-Creator
-Event
-Series
-Story
+
+    Character
+    Comic
+    Creator
+    Event
+    Series
+    Story
 
 ## Installation
 
