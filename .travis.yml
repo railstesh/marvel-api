@@ -1,0 +1,9 @@
+language: ruby
+rvm:
+  - 1.9.3
+script:
+  - bundle install
+  - CODECLIMATE_REPO_TOKEN=9e979646269338662e0e529e8d8f0ca1a50ba26ca18c1f18caaa29344b76badf bundle exec rspec
+addons:
+    code_climate:
+        repo_token: 9e979646269338662e0e529e8d8f0ca1a50ba26ca18c1f18caaa29344b76badf  
