@@ -1,4 +1,4 @@
-# Marvel
+# Marvel-API Gem 
 
 Ruby Client for Marvel API's just add gem in your project for using the Marvel API.
 
